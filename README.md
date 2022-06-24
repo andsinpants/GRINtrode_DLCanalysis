@@ -1,5 +1,5 @@
 # GRINtrode_DLCanalysis
-Code and data from GRINtrode Paper see McCollough et al., 2022
+Code and data from GRINtrode Paper see McCullough et al., 2022, 
 
 Dependent Functions:
 DJCS_padCells.m
