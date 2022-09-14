@@ -1,5 +1,13 @@
 # GRINtrode_DLCanalysis
-<h2>Code and data from GRINtrode Paper see McCullough et al., 2022</h2> 
+<div class="row">
+  <div class="column">
+   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/McCullough2022.PNG" alt="Moran2021a" style="width:30%">
+  </div>
+</div>
+
+<h2>Code and data from GRINtrode Paper, see McCullough et al., 2022</h2> 
+<ul><li><a href="https://www.biorxiv.org/content/10.1101/2022.06.17.496591v1" target="_blank">McCullough et al., 2022</a></li></ul>
+
 
 <b>Dependent Function</b>:
 DJCS_padCells.m
