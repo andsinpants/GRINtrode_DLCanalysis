@@ -5,7 +5,7 @@
   </div>
 </div>
 
-<h2>Code and data from GRINtrode Paper, see McCullough et al., 2022</h2> 
+<h2>Code and data from GRINtrode Paper.</h2> 
 <ul><li><a href="https://www.biorxiv.org/content/10.1101/2022.06.17.496591v1" target="_blank">McCullough et al., 2022</a></li></ul>
 
 
