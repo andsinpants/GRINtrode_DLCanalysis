@@ -1,7 +1,7 @@
 # GRINtrode_DLCanalysis
 <div class="row">
   <div class="column">
-   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/McCullough2022.PNG" alt="Moran2021a" style="width:30%">
+   <img src="https://github.com/andsinpants/andsinpants.github.io/blob/main/static/images/papers/McCullough2022.PNG" alt="McCullough2022" style="width:30%">
   </div>
 </div>
 
